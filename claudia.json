@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-samching-executor",
+    "name": "workshop-ws-5-8-samching",
+    "region": "us-east-2"
+  }
+}
