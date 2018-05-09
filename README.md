@@ -1,4 +1,7 @@
 # CS52 Workshops:  AWS (Amazon Web Services) Workshop
+
+Completed Lab: ![](img/completed_lab.png)
+
 ![](https://static1.squarespace.com/static/599bfc6803596ef973b3fade/t/5adde270575d1f40f9b86b12/1524490877466/Amazon+Web+Serives)
 
 Authors: Katherine Bernardez, Robert Crawford, Alexander Danilowicz, Lindsey Hodel, Thomas Kim, Stephen Liao
